@@ -13,7 +13,7 @@
     },
     "packages/cli": {
       "name": "@google/design.md",
-      "version": "0.2.0",
+      "version": "0.4.0",
       "bin": {
         "design.md": "./dist/index.js",
         "designmd": "./dist/index.js",
